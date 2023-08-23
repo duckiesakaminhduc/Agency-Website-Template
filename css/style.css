@@ -1,0 +1,201 @@
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+}
+
+.navbar {
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+.navbar-toggler i {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: 0 !important;
+}
+
+/* -------------------------------banner ------------------------------ */
+#banner {
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+    padding-top: 5%;
+}
+
+a.play-btn img {
+    width: 45px;
+}
+
+.promo-title {
+    padding-top: 100px;
+}
+
+#banner a {
+    text-decoration: none;
+    color: #fff;
+    padding-right: 10px;
+}
+
+/* -----------------------------services------------------------ */
+#services {
+    padding: 80px 0px;
+}
+
+.services-img {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.card img {
+    width: 5em;
+}
+
+.services {
+    padding: 20px;
+}
+
+.services h3 {
+    padding: 5px;
+    margin-top: 25px;
+}
+
+.btn-services {
+    margin: 2px auto;
+}
+
+.bottom-img {
+    width: 100%;
+}
+
+.btn-services {
+    border-radius: 20px;
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+    border: none;
+}
+
+/* -----------------------------about us-------------------------------- */
+#about-us {
+    padding-top: 5em;
+    background-color: #f4f9f8;
+}
+
+.info h3 {
+    margin-top: 70px;
+}
+
+.info ul li {
+    margin-bottom: 10px;
+}
+
+/* --------------------------client------------------------------- */
+.user {
+    border-left: 3px solid rgb(207, 62, 255);
+    margin-bottom: 2em;
+}
+
+.user img {
+    width: 45px;
+    border-radius: 45px;
+}
+
+.info-user {
+    margin-left: 10px;
+}
+
+.info-user {
+    font-size: 12px;
+}
+
+#client {
+    padding-top: 5em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+/* --------------------------------------------social ----------------------- */
+.social-icon a img {
+    width: 45px;
+    transition: all 0.5s;
+}
+
+.social-icon a:hover img {
+    transform: translateY(-10px);
+}
+
+#social h1 {
+    padding-top: 80px;
+}
+
+#social {
+    padding-bottom: 100px;
+    background-color: #F8F9FA;
+}
+
+.wave {
+    width: 100%;
+}
+
+/* -----------------------------footer */
+#footer {
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+}
+
+.wave {
+    padding-bottom: 20px;
+}
+
+.col-md-4>img {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.contact p i {
+    margin-right: 5px;
+    color: #fff;
+    border-radius: 2px;
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+    margin-bottom: 15px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-top: 9px;
+    font-size: 20px;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact h6 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.touch h6 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.touch input {
+    outline: none;
+    margin-bottom:20px ;
+}
+.touch button {
+    background: rgb(207, 62, 255);
+    background: linear-gradient(87deg, rgba(207, 62, 255, 1) 10%, rgba(144, 26, 194, 1) 100%);
+    border: none;
+    outline: none;
+}
